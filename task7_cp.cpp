@@ -22,6 +22,7 @@ void flower_shop(float red_rose,float white_rose,float tulips)
 		}
 	else 
 		{
-		cout <<"Price after discount: "<<(orignal_price);
+		//cout <<"Price after discount: "<<(orignal_price);
+		cout <<"No discount Applied";
 		}
 	}
